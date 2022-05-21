@@ -8,4 +8,4 @@ If you want to run the preprocess steps yourself, then go to to download the 201
 
 When downloaded, unpack this together with the zipped weather data and run the preprocess step in the explainer notebook. 
 
-In the case where you simply want to run with our preprocessed dataset - skip to the exploratory part of the explainer notebook.
+In the case where you simply want to run with our preprocessed dataset - skip to the exploratory part of the explainer notebook, and run with our preprocessed data, available as a zip-file in the repository.
